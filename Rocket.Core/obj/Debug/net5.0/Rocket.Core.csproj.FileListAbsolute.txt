@@ -1,0 +1,12 @@
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\bin\Debug\net5.0\Rocket.Core.deps.json
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\bin\Debug\net5.0\Rocket.Core.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\bin\Debug\net5.0\Rocket.Core.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.AssemblyInfoInputs.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.AssemblyInfo.cs
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.csproj.CoreCompileInputs.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\refint\Rocket.Core.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\ref\Rocket.Core.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Core\obj\Debug\net5.0\Rocket.Core.csproj.AssemblyReference.cache

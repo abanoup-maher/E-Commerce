@@ -1,0 +1,15 @@
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\bin\Debug\net5.0\Rocket.Repository.deps.json
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\bin\Debug\net5.0\Rocket.Repository.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\bin\Debug\net5.0\Rocket.Repository.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\bin\Debug\net5.0\Rocket.Core.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\bin\Debug\net5.0\Rocket.Core.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.csproj.AssemblyReference.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.AssemblyInfoInputs.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.AssemblyInfo.cs
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.csproj.CoreCompileInputs.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.csproj.CopyComplete
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\refint\Rocket.Repository.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\Rocket.Repository.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Repository\obj\Debug\net5.0\ref\Rocket.Repository.dll

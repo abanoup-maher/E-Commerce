@@ -1,0 +1,15 @@
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\bin\Debug\net5.0\Rocket.Services.deps.json
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\bin\Debug\net5.0\Rocket.Services.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\bin\Debug\net5.0\Rocket.Services.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.AssemblyInfoInputs.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.AssemblyInfo.cs
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.csproj.CoreCompileInputs.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\refint\Rocket.Services.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\ref\Rocket.Services.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\bin\Debug\net5.0\Rocket.Core.dll
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\bin\Debug\net5.0\Rocket.Core.pdb
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.csproj.AssemblyReference.cache
+D:\desktop\ASP.NET\projects\final app\project1API\Rocket.Services\obj\Debug\net5.0\Rocket.Services.csproj.CopyComplete
